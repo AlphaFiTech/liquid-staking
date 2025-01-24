@@ -22,7 +22,7 @@ SuiSystem = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/su
 # Override = { local = "../conflicting/version", override = true }
 
 [addresses]
-liquid_staking = "0x0"
+liquid_staking = "0xc35ee7fee75782806890cf8ed8536b52b4ba0ace0fb46b944f1155cc5945baa3"
 
 #UpgradeCap: 0x31a1385dd1c8a1f44369f081f29072155880816ffd170ceff67eecd506c557c0
 
